@@ -13,8 +13,10 @@ from top to bottom following the process while it was implemented. :-)
 
 ## Notes
 
-- I used a map for the data since it makes the lookup fast and easy.
-- I didn't handle setting/updating depths automatically.
+- I used a map for the nodes since it makes the lookup fast and easy.
+- There is no handling of automatically setting/updating depths.
+- There is no handling of deleting nodes
+- There is no handling of moving/changing root
 
 ## Routes
 
