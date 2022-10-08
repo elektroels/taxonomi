@@ -10,3 +10,8 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+.DS_Store
+
+.calva
+.lsp
+.clj-kondo
